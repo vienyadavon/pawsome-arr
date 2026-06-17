@@ -1,0 +1,52 @@
+version: 2
+
+models:
+  - name: dim_accounts
+    description: "Enriched account dimension. One row per account — the primary dimension for all CS/RevOps reporting."
+    columns:
+      - name: account_id
+        description: "Primary key — unique identifier for each account."
+        tests:
+          - unique
+          - not_null
+      - name: arr
+        description: "Annual Recurring Revenue in USD."
+        tests:
+          - not_null
+      - name: account_status
+        description: "Active or churned."
+        tests:
+          - accepted_values:
+              values: ['active', 'churned']
+
+  - name: fct_mrr_by_account
+    description: "Monthly Recurring Revenue by account with tier and region context. Used for RevOps MRR reporting."
+    columns:
+      - name: account_id
+        description: "Foreign key to dim_accounts."
+        tests:
+          - not_null
+      - name: mrr
+        description: "Monthly Recurring Revenue in USD — arr divided by 12."
+
+  - name: fct_alert_summary
+    description: "Aggregated alert metrics per account. Used for CS health monitoring and escalation reporting."
+    columns:
+      - name: account_id
+        description: "Foreign key to dim_accounts."
+        tests:
+          - not_null
+      - name: resolution_rate_pct
+        description: "Percentage of alerts resolved — key health signal."
+
+  - name: fct_account_health_score
+    description: "Composite account health score combining seat utilization, alert resolution, user activity, and satisfaction. Primary CS dashboard model."
+    columns:
+      - name: account_id
+        description: "Foreign key to dim_accounts."
+        tests:
+          - not_null
+      - name: health_score
+        description: "Composite score 0-100. Average of utilization, resolution, activity, and satisfaction scores. Lower scores indicate churn risk."
+
+

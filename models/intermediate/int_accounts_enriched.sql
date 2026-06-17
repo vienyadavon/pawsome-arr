@@ -4,7 +4,12 @@ with accounts as (
 
 subscriptions as (
     select * from {{ ref('stg_subscriptions') }}
+    qualify row_number() over (
+        partition by account_id
+        order by start_date desc
+    ) = 1
 ),
+
 
 users as (
     select * from {{ ref('stg_users') }}

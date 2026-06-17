@@ -1,0 +1,119 @@
+version: 2
+
+models:
+  - name: stg_accounts
+    description: "Cleaned and renamed accounts from raw source. One row per customer account."
+    columns:
+      - name: account_id
+        description: "Primary key — unique identifier for each customer account."
+        tests:
+          - unique
+          - not_null
+      - name: tier
+        description: "Subscription tier of the account."
+        tests:
+          - accepted_values:
+              values: ['starter', 'growth', 'enterprise']
+      - name: account_status
+        description: "Derived field — active or churned based on contract end date."
+        tests:
+          - accepted_values:
+              values: ['active', 'churned']
+      - name: arr
+        description: "Annual Recurring Revenue for the account in USD."
+        tests:
+          - not_null
+
+  - name: stg_users
+    description: "Cleaned users table. One row per user linked to a customer account."
+    columns:
+      - name: user_id
+        description: "Primary key — unique identifier for each user."
+        tests:
+          - unique
+          - not_null
+      - name: account_id
+        description: "Foreign key to stg_accounts."
+        tests:
+          - not_null
+      - name: role
+        description: "User role within the account."
+        tests:
+          - accepted_values:
+              values: ['admin', 'analyst', 'viewer']
+      - name: user_status
+        description: "Derived field — active, inactive, or never_logged_in."
+        tests:
+          - accepted_values:
+              values: ['active', 'inactive', 'never_logged_in']
+
+  - name: stg_subscriptions
+    description: "Cleaned subscriptions table. One row per subscription record."
+    columns:
+      - name: subscription_id
+        description: "Primary key — unique identifier for each subscription."
+        tests:
+          - unique
+          - not_null
+      - name: account_id
+        description: "Foreign key to stg_accounts."
+        tests:
+          - not_null
+      - name: status
+        description: "Subscription status — active, churned, or renewed."
+        tests:
+          - accepted_values:
+              values: ['active', 'churned', 'renewed']
+
+  - name: stg_events
+    description: "Cleaned product telemetry events. One row per user interaction."
+    columns:
+      - name: event_id
+        description: "Primary key — unique identifier for each event."
+        tests:
+          - unique
+          - not_null
+      - name: event_type
+        description: "Type of product interaction recorded."
+        tests:
+          - accepted_values:
+              values: ['login', 'scan_started', 'alert_viewed', 'report_exported', 'setting_changed']
+
+  - name: stg_alerts
+    description: "Cleaned security alerts. One row per alert triggered for an account."
+    columns:
+      - name: alert_id
+        description: "Primary key — unique identifier for each alert."
+        tests:
+          - unique
+          - not_null
+      - name: severity
+        description: "Severity level of the alert."
+        tests:
+          - accepted_values:
+              values: ['low', 'medium', 'high', 'critical']
+      - name: alert_status
+        description: "Derived field — unacknowledged, acknowledged, or resolved."
+        tests:
+          - accepted_values:
+              values: ['unacknowledged', 'acknowledged', 'resolved']
+
+  - name: stg_tickets
+    description: "Cleaned support tickets. One row per ticket raised by a customer account."
+    columns:
+      - name: ticket_id
+        description: "Primary key — unique identifier for each support ticket."
+        tests:
+          - unique
+          - not_null
+      - name: priority
+        description: "Ticket priority level."
+        tests:
+          - accepted_values:
+              values: ['low', 'medium', 'high']
+      - name: ticket_status
+        description: "Derived field — open or resolved."
+        tests:
+          - accepted_values:
+              values: ['open', 'resolved']
+
