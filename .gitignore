@@ -1,0 +1,16 @@
+# DuckDB database files
+*.duckdb
+*.duckdb.wal
+
+# Intermediate data generation files
+
+data_generation/raw/account_ids.csv
+data_generaton/raw/account_information.csv
+
+#dbt logs
+
+logs/
+
+target/
+dbt_packages/
+logs/

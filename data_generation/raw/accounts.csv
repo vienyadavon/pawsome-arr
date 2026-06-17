@@ -1,0 +1,501 @@
+account_id,company_name,industry,tier,arr,csm_region,contract_start_date,contract_end_date,churned
+be422afb-18eb-49b7-9d3c-55458eac551b,"Floyd, Foster and Hardy",Technology,starter,14657,APAC,2025-09-06,2026-09-06,0
+999abe3a-d9ce-4a26-bd65-c3c6659e3864,"Townsend, Ross and Flores",Healthcare,starter,9688,APAC,2025-11-07,2027-11-07,0
+4c8a90bd-36e2-47d9-9140-e5b282317c67,"Morris, Gates and Sutton",Finance,growth,38357,NA,2025-07-01,2027-07-01,0
+ad92743b-a996-4ab2-9283-e7bfdbdb5f72,"Acosta, Smith and Herrera",Finance,growth,20991,NA,2025-04-10,2027-04-10,0
+41b76bd0-fb86-40c3-aa9d-ac154cb77782,Rodriguez and Sons,Finance,growth,25187,EMEA,2023-05-03,2025-05-02,1
+6b1e0218-e14a-441f-959c-ea6d6ef9f3d7,"Hall, Mcdonald and White",Finance,growth,30665,EMEA,2023-03-11,2025-03-10,1
+fea26b95-dd7c-4561-a7cb-fc1cfb9d2a99,Valentine Inc,Healthcare,enterprise,273211,NA,2024-01-19,2026-01-18,1
+0247ffb0-2ad5-474e-8afd-7679889657b3,"Lewis, Smith and Ramsey",Technology,enterprise,171470,EMEA,2024-04-01,2025-04-01,1
+de443543-cb5a-43de-ab26-7873a7625f8d,Maynard Ltd,Technology,growth,26941,NA,2024-08-08,2026-08-08,0
+9827294b-1e24-4f74-a5a3-30c9b29b3702,Bowen-Davidson,Finance,growth,41025,EMEA,2024-11-03,2026-11-03,0
+6b27bd54-236f-49fc-99ad-513bf1772a64,Koch-Daugherty,Technology,growth,62759,EMEA,2025-05-05,2027-05-05,0
+8933e825-66f0-4781-9bc8-58d8b705662d,"Baker, Robertson and Sanders",Manufacturing,growth,20120,NA,2024-08-06,2025-08-06,1
+bcb3b4f0-00ee-425e-a3c2-59e1b5fb1dd6,"Tran, Sullivan and Jones",Healthcare,enterprise,126369,EMEA,2025-12-19,2026-12-19,0
+dfca199a-b898-4f19-8bab-12d6f4d5ce97,"Brady, Hawkins and Woods",Healthcare,growth,77340,APAC,2023-09-18,2024-09-17,1
+13761516-3d20-41c9-b05c-97ef683cfe8b,Williams and Sons,Technology,enterprise,207389,APAC,2024-11-22,2026-11-22,0
+925c4009-676d-48ff-99b4-359c7f2b0375,Fox Ltd,Finance,growth,67448,APAC,2024-05-02,2026-05-02,1
+c09b7174-54e5-46f1-b7e9-21efe5149637,Floyd PLC,Retail,enterprise,272951,EMEA,2025-11-01,2026-11-01,0
+ee12f5f6-7e68-49e4-8175-22206d9bf83e,Avila PLC,Finance,starter,6121,APAC,2024-11-18,2025-11-18,1
+8841c929-427f-4a5d-9cd8-bde62c4de874,Wilson and Sons,Technology,starter,12185,NA,2024-09-12,2025-09-12,1
+c95ef7e8-75db-4fb2-83de-33644066542f,"Ryan, Wilkerson and Williams",Manufacturing,enterprise,167677,NA,2025-10-02,2027-10-02,0
+0576f5a2-9dc5-4b07-9b60-f09a81a1fc09,"Nelson, Velasquez and King",Technology,starter,9521,APAC,2024-01-20,2026-01-19,1
+beed11cb-0bb6-46c9-8812-2afb5b5b9220,Ryan Ltd,Technology,starter,12510,NA,2024-04-06,2025-04-06,1
+61922a80-e3b0-4056-8eb9-57afcbdd31d1,Griffin-Harrell,Technology,growth,49048,NA,2023-09-10,2024-09-09,1
+ae4047ed-04b2-4c81-bc7a-2756ab03ccec,"Marquez, Thompson and Morgan",Technology,enterprise,225305,NA,2024-09-25,2025-09-25,1
+2928944d-c3f7-443a-a692-41670d67be00,Moore LLC,Retail,growth,67630,APAC,2024-02-21,2025-02-20,1
+8c848003-7c58-4400-90b7-df6ebccc57ed,Robinson LLC,Healthcare,enterprise,216811,EMEA,2024-12-16,2026-12-16,0
+7df20320-107c-46a4-863f-08f8a3bead28,"Frazier, Carr and Parker",Healthcare,enterprise,268804,APAC,2023-09-03,2024-09-02,1
+72c1675a-f967-413f-ae28-d9e9ad2e852c,"George, Moore and Walker",Finance,growth,70770,APAC,2025-10-19,2027-10-19,0
+076d95e9-7968-4e2c-b7b8-ce6d9f644205,Webb PLC,Manufacturing,starter,6120,EMEA,2023-09-01,2024-08-31,1
+9187a035-a7df-4a81-83a0-7b18f25c09d8,Smith-Allen,Technology,starter,13286,APAC,2024-02-24,2026-02-23,1
+e2b20d48-3b11-43d9-b987-2abdbfa347ad,Williams LLC,Technology,starter,13099,EMEA,2024-03-07,2026-03-07,1
+f21f233b-e722-46e9-b25d-1c595eb35ff6,Edwards-Ferguson,Finance,starter,11747,EMEA,2025-12-22,2027-12-22,0
+410a4257-9d0b-4784-9195-a8e14b6a5bde,"Brennan, Garza and Warren",Finance,enterprise,173758,APAC,2025-11-06,2026-11-06,0
+a2d83a79-8b3b-45f9-8aba-7291fdfd6294,Bradley-Bruce,Technology,starter,9499,NA,2024-04-17,2026-04-17,1
+da83e691-4c43-4b76-8e7b-07e8c9a05aa4,"Robles, Campos and Parks",Finance,growth,59043,EMEA,2023-05-09,2024-05-08,1
+d4c2b708-3781-43bf-b9a5-4daae2525235,Davis-Fisher,Retail,growth,64250,NA,2024-05-28,2026-05-28,1
+22a87ffa-6ab7-4a91-8140-86735df65951,"Herring, Henderson and Berger",Manufacturing,starter,12252,EMEA,2024-06-19,2026-06-19,0
+250432f3-ea2e-4bbe-b62c-58eb34a59b93,Garcia-Duncan,Retail,starter,11573,APAC,2024-07-23,2026-07-23,0
+63be34fd-58d7-48e2-90e4-5d0a5168b904,Pearson LLC,Healthcare,enterprise,235732,NA,2025-06-17,2027-06-17,0
+f4fa1be5-2f43-458b-9add-20ed03dcd78f,White LLC,Manufacturing,starter,14748,EMEA,2023-10-09,2024-10-08,1
+11d0f812-75fc-4938-a51d-f81d4cbb566b,Rojas Inc,Finance,starter,6332,EMEA,2024-11-11,2026-11-11,0
+b56d6a1d-f385-401e-9f09-4ad1c3f23948,Cook Inc,Technology,growth,51745,NA,2023-05-26,2025-05-25,1
+668edc2f-bd8f-47cd-8fff-f99fc8d3030e,Stevens-Smith,Finance,enterprise,143190,APAC,2023-09-07,2024-09-06,1
+f450a9b0-66d0-4f94-9b14-c452e078bb18,Bowers-Smith,Technology,growth,77303,NA,2025-08-12,2027-08-12,0
+512b76bc-f547-46e2-bae8-e603b465b9b7,Wade-Mann,Finance,growth,63062,NA,2024-11-26,2025-11-26,1
+b9ff2b56-0735-44df-b7bc-296ee86ce146,"Campbell, Ortiz and Carson",Retail,enterprise,291784,APAC,2025-09-06,2026-09-06,0
+b3a9dd72-0086-477c-9594-39090895d69a,Rojas-Robinson,Manufacturing,growth,33873,NA,2023-09-25,2024-09-24,1
+a9fe1075-7f77-41ec-a354-5342cc14292f,"Kemp, Yang and Mccormick",Finance,starter,7343,NA,2024-11-26,2026-11-26,0
+3e90249e-cdc7-469b-80a1-2b67d08f9125,Weber Group,Retail,growth,33694,APAC,2023-12-20,2024-12-19,1
+46c77db6-cfcf-4b19-bd11-2ddc39d98598,"Aguilar, Conner and Kim",Finance,enterprise,144495,APAC,2024-01-05,2025-01-04,1
+d9d9ad44-e735-42a5-889a-991f243b364a,"Crane, Smith and Alvarez",Technology,growth,31145,NA,2024-11-14,2026-11-14,0
+847e3d22-d66a-4a76-8f2f-163b6b323257,Bauer Group,Finance,enterprise,132641,EMEA,2023-10-02,2024-10-01,1
+c43a01b6-54c8-4351-98d3-aea680e62b3b,"Anderson, Hayden and Sanchez",Manufacturing,starter,10019,EMEA,2023-11-06,2025-11-05,1
+00c7de6a-4d98-4c07-9a3b-b0f7cd8c79dc,"Salinas, Cox and Vazquez",Finance,starter,8216,NA,2025-02-20,2027-02-20,0
+a3938d6e-0bef-48f7-a194-42b66ee2c902,"Hartman, Murphy and Paul",Retail,enterprise,232310,APAC,2023-11-11,2025-11-10,1
+31af803c-ee8f-43ef-acb7-a8f771478b72,Dillon-Haney,Technology,enterprise,230507,NA,2024-04-10,2025-04-10,1
+1cb11afd-1696-4561-a301-762674024fcd,"Hanson, Romero and Johnson",Retail,growth,28946,APAC,2024-01-06,2025-01-05,1
+90155c04-3801-4d92-aa24-c43c6e067b46,Mcconnell-Johnson,Healthcare,starter,10596,APAC,2023-04-15,2024-04-14,1
+6e33cd52-b668-4d79-833f-da1b285f09f9,Gonzalez Group,Technology,enterprise,198969,NA,2025-06-20,2027-06-20,0
+a16553b9-4aa8-4576-9dee-3abb54058664,"Davidson, Gomez and Ramos",Technology,growth,42275,APAC,2023-04-27,2025-04-26,1
+0a19e5ef-935c-4f8b-b1b9-fc54f48395a4,Allen-Rogers,Retail,starter,14879,EMEA,2025-10-04,2027-10-04,0
+4263ffae-01d1-4ee8-a230-b967c46a198e,Stevenson-Williams,Manufacturing,growth,17773,EMEA,2024-06-04,2025-06-04,1
+3c097cd2-6e24-4476-bc84-b2c898ebede8,Thompson PLC,Technology,growth,43537,APAC,2025-01-27,2027-01-27,0
+9894a476-1eed-48f9-bd02-779ef845b14a,Floyd-Tucker,Manufacturing,starter,14465,NA,2025-07-24,2026-07-24,0
+9ea08969-179a-4896-ae51-621ca8f34d63,Williams Group,Healthcare,enterprise,93615,APAC,2025-06-11,2026-06-11,1
+6dad7bbd-9f6d-43fd-b53c-b7f46c830270,Mullins Group,Technology,growth,54577,EMEA,2024-01-06,2026-01-05,1
+a3acde22-d9a7-410a-82bb-088802270e41,Soto Ltd,Technology,growth,70148,EMEA,2025-01-07,2026-01-07,1
+094cbf93-ca1c-418a-9313-1d9133576558,"Decker, Marshall and Daniels",Healthcare,growth,64382,EMEA,2025-05-13,2027-05-13,0
+5dc6b598-847b-4333-8eb8-8d1304064398,"Allen, Cole and Wheeler",Healthcare,starter,14371,APAC,2025-08-16,2026-08-16,0
+15dc55e8-2801-4233-a924-630b768d5108,Crawford-Conner,Finance,starter,7431,APAC,2025-06-09,2026-06-09,1
+9a93a7a6-09c9-4db1-85ae-c838d4156583,Flores-Brock,Healthcare,enterprise,140689,APAC,2023-04-07,2025-04-06,1
+ca64d382-9698-4028-9efb-325fad71e19f,Lee LLC,Technology,growth,23363,APAC,2023-06-06,2024-06-05,1
+96a2f155-e053-4e95-b120-8e58fe5e2c36,"Swanson, Watkins and Jones",Finance,enterprise,261693,EMEA,2025-02-06,2026-02-06,1
+e1bb85ee-a879-43e9-85f4-cb11d359ebfa,Rogers-Graves,Retail,growth,76700,APAC,2023-10-03,2025-10-02,1
+15a039af-737a-4be6-9f65-998804864c33,Harris PLC,Healthcare,growth,15004,EMEA,2025-01-16,2027-01-16,0
+50b85287-ccd4-44f2-8e26-3002ceaadd0d,"Henderson, Long and Collins",Healthcare,growth,76180,APAC,2025-07-17,2027-07-17,0
+d8bcb6c0-80ef-499a-95e4-4bdf34fe572f,Smith Inc,Healthcare,growth,57045,NA,2024-09-10,2026-09-10,0
+170f2873-fa93-40a2-8692-9d25035ad68e,"Hill, Sims and Bush",Healthcare,enterprise,87974,EMEA,2024-02-23,2025-02-22,1
+be00df1e-3d33-43ce-b595-f5838cac9e28,Hunter-King,Retail,growth,26039,APAC,2024-08-26,2025-08-26,1
+68c11c02-695d-4821-97b9-4c62a7afd25f,Chavez-Elliott,Technology,growth,76425,NA,2024-02-18,2026-02-17,1
+0e3e8654-fd66-44f1-a392-0ec66204b068,Thompson-Rogers,Finance,enterprise,182173,APAC,2025-12-27,2027-12-27,0
+3009475c-7413-44f6-bf4f-82ee2226bd83,Wiggins-Porter,Technology,growth,25971,NA,2024-04-11,2025-04-11,1
+16650a24-7830-4a9a-a00c-136fbe552f94,May-Evans,Technology,growth,53982,NA,2023-04-04,2024-04-03,1
+10ab4b97-dcd2-4821-89c7-77a7c9d45902,Doyle Group,Healthcare,growth,24083,APAC,2024-03-03,2025-03-03,1
+31317ba8-e4f6-495a-8595-6db73b9ddaa7,Lynch-Watkins,Manufacturing,growth,73744,APAC,2024-12-25,2025-12-25,1
+8c45cca2-8a88-40e3-9d88-f8b2e1782ccd,Lewis PLC,Healthcare,starter,5140,EMEA,2025-02-25,2027-02-25,0
+d90cc9c9-a6f7-407f-bde3-4f0f2b5fe4e4,"Brown, Stephens and Green",Technology,growth,77123,APAC,2023-12-15,2024-12-14,1
+7068fa80-3ed2-44a0-a74e-8bf8f96073f9,Dominguez-Silva,Finance,enterprise,114380,APAC,2024-06-12,2025-06-12,1
+6cc3e890-c5c7-45cc-b792-0247c18ceb48,"Nguyen, Mueller and Smith",Healthcare,starter,6005,EMEA,2025-06-09,2027-06-09,0
+6023f639-dd9b-418b-9fce-b698d7e4b371,Baldwin-Harris,Technology,starter,14410,NA,2024-10-01,2026-10-01,0
+25b17b5c-0f15-449a-9e15-e8e3b423a31e,Roberson-Norton,Healthcare,enterprise,237183,APAC,2023-12-17,2024-12-16,1
+43b3877a-ee84-43d6-902d-96f1998a7f7e,"Keller, Brooks and Brooks",Technology,growth,32207,NA,2024-10-26,2025-10-26,1
+cfcef06e-4d2d-4560-99cd-0d297cab8129,Adams-Delacruz,Finance,enterprise,143803,NA,2023-03-16,2025-03-15,1
+89376971-3797-4bbf-bce7-c7473cb0f78a,Jackson-Russell,Manufacturing,starter,10840,APAC,2024-07-02,2026-07-02,0
+ecd94e66-0dc1-43bb-9fdb-9d19907287ab,"Smith, Melendez and Schmidt",Healthcare,growth,59371,EMEA,2025-12-14,2026-12-14,0
+12c2d48a-29f9-4da4-bd28-828b5ccd29ab,"Mayo, Robinson and Kelly",Finance,growth,22561,NA,2023-02-07,2024-02-07,1
+eadb2c34-6305-4270-864f-899c035bc101,"Williams, Jackson and Lewis",Healthcare,enterprise,201531,NA,2024-10-14,2026-10-14,0
+c97455ea-d79b-447f-a5d8-6ff2cbe1a21c,Long Group,Finance,growth,77561,NA,2023-11-15,2024-11-14,1
+9f699b98-e5d3-44f7-9c17-48cd9da60a1a,Vazquez Ltd,Manufacturing,enterprise,177796,APAC,2024-12-11,2026-12-11,0
+cbed73f2-652e-413b-9a26-62767bb7c2b2,"Johnson, Santiago and Schwartz",Manufacturing,starter,9741,APAC,2024-12-09,2026-12-09,0
+22daa4b6-fdd2-4b83-a21f-1833400a0043,"Davis, Collins and Martin",Technology,starter,11209,APAC,2024-09-02,2026-09-02,0
+e1e5efbf-48c4-42ef-a175-fa4fec0fd94f,Lopez PLC,Retail,enterprise,216023,APAC,2025-01-28,2026-01-28,1
+e9a2d36e-0693-48ff-becb-43fddd0f7e3c,"Scott, Craig and Stanley",Finance,growth,79853,NA,2025-09-11,2026-09-11,0
+ef01ffc2-6040-4390-93f8-06fe71e1d6dc,"Rodriguez, Werner and Boyle",Manufacturing,enterprise,181628,APAC,2023-03-17,2025-03-16,1
+52733961-28d9-41de-98c2-8e6b935668ea,Petty and Sons,Healthcare,starter,13037,APAC,2025-06-04,2026-06-04,1
+c4b2068e-d77e-4533-8b76-e07f2b85658a,"Campbell, Sutton and Kelly",Healthcare,starter,6583,EMEA,2024-09-26,2026-09-26,0
+eacad002-b400-485c-b97d-2cdc917af2e4,"Price, Smith and Williams",Healthcare,growth,36126,APAC,2024-02-06,2025-02-05,1
+0fea2af9-b0e6-416a-b508-b632906b9ea5,Ward-Bridges,Healthcare,growth,48446,APAC,2024-09-19,2026-09-19,0
+e7c6d579-752d-46d4-903e-f021d0c925f8,"Johnson, Scott and Vaughan",Technology,enterprise,218240,NA,2025-05-12,2026-05-12,1
+9091abf4-c363-4f1a-b641-961c020e5775,Peterson-Murphy,Finance,starter,5163,APAC,2025-09-28,2026-09-28,0
+556e8522-5cda-4089-8b02-5d7518bf0ed6,Burns PLC,Finance,growth,71918,NA,2023-02-19,2024-02-19,1
+a6f09c0c-1a05-40b7-b127-d436fb0162d5,Ford-Myers,Finance,starter,11651,NA,2024-06-23,2025-06-23,1
+a9eeaf73-869d-4548-a934-f0fe5515932b,Rowe-Myers,Healthcare,starter,5789,NA,2025-07-19,2026-07-19,0
+6fed902c-be69-425a-9906-726b7b900b19,Morris-Lawson,Retail,starter,7206,NA,2023-12-08,2024-12-07,1
+80dd4c64-3f69-4235-a3c9-720b1600ec8a,Beard PLC,Healthcare,growth,49488,NA,2025-12-28,2027-12-28,0
+089ea9ac-a3f1-4ca6-b87c-83de8ce5d9a9,Smith-Watkins,Retail,starter,13671,NA,2024-11-18,2026-11-18,0
+ee609c0b-504f-4425-879a-0b2ec3d84f97,Bradshaw Group,Manufacturing,growth,32550,NA,2025-12-20,2026-12-20,0
+f5204496-4e70-4fd2-951d-3f05e3567181,Carter-Sanchez,Healthcare,enterprise,144086,NA,2025-10-05,2026-10-05,0
+c32e6d33-9719-4128-bf0a-00ac29f6885f,Schwartz-Horton,Finance,starter,6034,EMEA,2025-11-06,2026-11-06,0
+304a8f60-4f21-498f-8e78-7e9ceb69e7bc,Christian Group,Manufacturing,growth,39166,APAC,2024-09-21,2026-09-21,0
+902c3e0e-9759-46eb-b34d-21abc35dabce,Shelton Ltd,Retail,enterprise,201284,NA,2025-09-12,2027-09-12,0
+0e0461fa-b445-45c6-9d41-f7d7f7149a61,Hall-Donovan,Retail,growth,70528,NA,2024-09-16,2026-09-16,0
+c42a766a-7821-423d-9ab8-fe8b56564244,"Watts, Collier and Oliver",Manufacturing,starter,9911,APAC,2025-01-07,2026-01-07,1
+a15c853d-829c-475d-ba3b-e6809e321f13,Poole Group,Finance,growth,37739,APAC,2025-04-07,2026-04-07,1
+8e657c01-2c66-4154-9ba3-094c32c33110,Olson Ltd,Manufacturing,starter,6642,APAC,2025-04-19,2026-04-19,1
+b0253eb2-5c0b-434b-b1fd-e77e8edb8079,Meyer-Hendrix,Retail,enterprise,193053,EMEA,2024-12-08,2025-12-08,1
+5d115863-a15b-47e9-9474-e44664f2728b,Cruz Ltd,Technology,enterprise,211659,NA,2023-10-04,2025-10-03,1
+4e92b7e2-5b34-43da-b7e4-521adc5fe1f2,Smith Ltd,Healthcare,starter,5732,EMEA,2024-07-14,2025-07-14,1
+268a3293-2ce2-4777-9f45-33832d58f523,"Nelson, Turner and Hurst",Finance,starter,5029,APAC,2024-09-02,2025-09-02,1
+b5813566-a7b6-48e3-a82f-1c4c48b80a41,Rodriguez-Williams,Healthcare,growth,29126,EMEA,2024-11-24,2026-11-24,0
+3a56e0b2-29c5-4c56-8ef8-3c7da15e2920,Smith PLC,Technology,starter,7949,APAC,2024-01-20,2026-01-19,1
+1edc3682-b54a-485d-93ba-fb01366964f9,"Fisher, Morrow and Diaz",Manufacturing,growth,32707,APAC,2024-04-10,2026-04-10,1
+e7f00d7b-4b1c-44f5-ae53-0ea8d098ad17,Nelson Group,Healthcare,enterprise,170749,NA,2025-01-19,2027-01-19,0
+b45e5fc5-42d3-4677-89c0-85c141e2f2e8,Mendoza-Mendoza,Healthcare,growth,37728,APAC,2025-07-01,2027-07-01,0
+c97a0c52-7f87-4397-a788-08c900584141,"Goodwin, Myers and Wright",Manufacturing,enterprise,167601,NA,2024-09-13,2026-09-13,0
+2c8a6344-5ab4-434f-8451-27a89db5bec7,Medina-Farrell,Healthcare,starter,5424,NA,2025-05-05,2027-05-05,0
+f756297a-73cb-42f5-8b4c-4dc63e235d92,"Peterson, Morales and Dunn",Finance,growth,42463,APAC,2024-09-01,2025-09-01,1
+80022637-814a-49ae-88cd-364c7fc0cb57,Gomez-Reed,Healthcare,starter,10324,APAC,2024-02-27,2026-02-26,1
+31e80fad-f6a0-4dce-a00c-b72303ad9f6d,Mendoza and Sons,Finance,enterprise,152714,NA,2024-07-12,2025-07-12,1
+1ecdc139-014d-427f-b913-394218a9d787,"Cunningham, Norton and Waller",Technology,enterprise,275671,NA,2025-08-11,2027-08-11,0
+e8348b92-045d-416a-827f-dc524cf251e6,Dunn-Hooper,Healthcare,growth,47312,APAC,2023-07-14,2024-07-13,1
+98b322c6-2252-48d4-9ec5-e5c0c6707608,Cook LLC,Manufacturing,growth,69201,APAC,2025-09-20,2027-09-20,0
+727b72a8-dd80-46eb-b780-5778c560d2fb,Li PLC,Finance,enterprise,127525,EMEA,2024-10-12,2025-10-12,1
+e3848dc7-5a81-4e3d-a568-a01d9749e198,Vance PLC,Technology,growth,28121,APAC,2023-07-24,2025-07-23,1
+20d44144-0ed3-41db-9c37-8e64ed6ba00d,Jones Inc,Technology,growth,18439,NA,2024-01-10,2026-01-09,1
+dd33eb4d-ec0a-4c9c-aee7-fa60045150ae,Nelson-Reed,Technology,growth,17016,APAC,2024-06-19,2026-06-19,0
+541eb2ce-32df-44a3-8a72-ea8b0ffdd620,"Jenkins, Stone and Shields",Healthcare,growth,39923,APAC,2024-07-24,2025-07-24,1
+c31ea660-5ae2-489e-b321-c010c474582d,"Robertson, Mcdonald and Campbell",Finance,growth,39345,APAC,2024-01-04,2026-01-03,1
+f0709b1b-a37e-4300-b32b-6ca991eb58ea,Martin-Miller,Technology,growth,59723,NA,2025-08-28,2026-08-28,0
+9e497bd4-c4af-4820-a853-593456a42044,Price-Horn,Finance,starter,9335,NA,2025-09-26,2026-09-26,0
+222c5fc4-8d95-4b86-b7a7-57b1d12b311a,"Rodriguez, Woods and Esparza",Finance,starter,14735,APAC,2023-11-22,2025-11-21,1
+990b311d-4537-46f4-918a-92eccb24ecb4,Thompson Ltd,Retail,starter,13600,NA,2024-11-16,2026-11-16,0
+61d71670-af12-4c53-8eb1-3fb47ac59b95,"Wilcox, Walker and Carter",Manufacturing,enterprise,260733,EMEA,2023-01-19,2024-01-19,1
+999c8eff-5623-4153-a987-97d553b9a0bf,Garcia Group,Retail,growth,49745,EMEA,2024-11-07,2025-11-07,1
+30dbf20f-b7ed-4477-bd8f-42a3d8181ff5,Hill-Moore,Manufacturing,starter,10605,NA,2024-06-03,2026-06-03,1
+e3db1650-9b95-4537-b1a5-419d1b6d1fb9,Weaver-Wright,Healthcare,growth,40330,APAC,2023-09-02,2025-09-01,1
+99c8d200-a806-45ed-9391-e26c8aa0e786,Martinez and Sons,Manufacturing,growth,37192,NA,2025-11-09,2026-11-09,0
+3001c4da-b595-4a88-92cd-87fef5217a6a,Morris Group,Healthcare,growth,79299,EMEA,2024-07-11,2025-07-11,1
+0ef682d4-0c01-4c26-a65b-17ffea5e3198,"Taylor, Brewer and Powers",Retail,enterprise,150201,NA,2025-10-25,2027-10-25,0
+424c7d5c-a438-4646-8df3-560d080baa49,Lester-Adams,Finance,starter,7232,EMEA,2025-04-24,2027-04-24,0
+f50f08f8-70da-47f6-95ff-edaa9f908e42,Mitchell PLC,Finance,enterprise,159034,EMEA,2024-02-08,2026-02-07,1
+a52cb425-380f-48d6-bef3-d7430458d8c7,"Gutierrez, Todd and West",Finance,growth,51213,EMEA,2024-05-11,2026-05-11,1
+44807378-7f63-4c82-8184-580fe0a6f166,"Mcdonald, Williams and Brady",Technology,growth,42357,APAC,2025-06-14,2027-06-14,0
+61780202-1997-4a0c-a9e4-49c0c45f9a96,Mathis and Sons,Manufacturing,starter,7823,NA,2024-08-20,2025-08-20,1
+102a06ba-fb78-415b-b56e-705af395b2ca,"York, Long and Lee",Finance,enterprise,90827,EMEA,2025-02-11,2026-02-11,1
+025233f0-ca18-43f1-907b-b6c9e0623e6b,Williams Ltd,Finance,starter,7539,APAC,2024-08-28,2026-08-28,0
+15d1c5fb-725a-45cc-b876-b9b8c1f91211,"Chapman, Wolf and Mcpherson",Finance,enterprise,252818,EMEA,2023-12-15,2025-12-14,1
+03bfcfaf-fd78-4fcf-9be8-3cddba0b7a50,"Anderson, Smith and Johnson",Healthcare,enterprise,177016,EMEA,2023-04-17,2024-04-16,1
+bc0b2660-f08e-4057-9019-af110addd1a6,Thomas Ltd,Finance,growth,28599,NA,2024-09-17,2025-09-17,1
+ea2a5a4d-8abc-4bda-bdf0-33c563690234,Collins and Sons,Healthcare,growth,21392,EMEA,2023-07-28,2025-07-27,1
+920ffae1-9fa0-43a4-b863-d6c43adfca02,Lam-Williams,Finance,starter,8934,NA,2023-04-09,2025-04-08,1
+58666b1d-346e-4659-99c9-fcaab3fda926,"Francis, Hall and Bird",Finance,enterprise,298192,APAC,2025-05-18,2026-05-18,1
+7b34b487-a965-48a8-a34d-d32597ee43a7,Skinner-Bush,Technology,enterprise,260731,APAC,2025-11-14,2027-11-14,0
+545dfd60-c372-4800-a17a-ab32f965ee2c,Richards Group,Technology,growth,58552,NA,2024-09-25,2026-09-25,0
+c096bd9c-02b9-46ed-a64d-1def79af4b13,Simmons LLC,Technology,enterprise,219861,NA,2025-01-26,2027-01-26,0
+290c1243-27d5-4ac0-a82c-e5958234d18b,Nelson PLC,Finance,growth,29643,APAC,2025-07-16,2027-07-16,0
+5ca3336a-4636-4e1d-92a4-10dc5a76a6b8,"Sandoval, Johnson and Pena",Healthcare,starter,6729,APAC,2024-03-06,2025-03-06,1
+40f46068-e542-41bc-b348-5c4ff41151ca,"Gomez, Matthews and Campbell",Retail,enterprise,252102,NA,2025-07-09,2027-07-09,0
+5da17edf-ee0a-4432-a00a-72e0eb581f23,Massey-Stein,Technology,growth,21168,EMEA,2024-10-08,2026-10-08,0
+6b95e314-4f02-4be3-922b-29efc6b2c00b,"Barnes, Mendez and Adams",Finance,enterprise,270353,NA,2025-06-18,2027-06-18,0
+af0923f1-0275-41d4-9772-b6ef3d1864b6,"Morgan, Clark and Brooks",Manufacturing,enterprise,272066,APAC,2023-11-11,2024-11-10,1
+055f07b6-6fe2-4511-a9de-5e02cf6397ac,"Wood, Garcia and Kelly",Manufacturing,starter,12573,APAC,2025-11-28,2027-11-28,0
+63ff4fb9-ac6a-4469-b60e-4e9683f08138,Howell Group,Manufacturing,growth,76406,EMEA,2023-04-27,2025-04-26,1
+1aa97f09-ba12-403e-8258-063ff7347728,"Stevens, Byrd and Williams",Finance,enterprise,171060,EMEA,2024-07-27,2026-07-27,0
+f50458d7-f9d4-46eb-b6bd-401f8d7b77d7,"Ball, Weaver and Holmes",Manufacturing,enterprise,227525,NA,2025-12-04,2027-12-04,0
+52810c43-c13b-40cc-bc05-607589653d76,Yoder PLC,Healthcare,enterprise,253445,APAC,2024-12-27,2026-12-27,0
+24a574be-86aa-45eb-9586-9bc837d2879d,Warren-Moreno,Retail,growth,60706,EMEA,2025-09-15,2026-09-15,0
+2f7de006-794e-4af2-945c-b2abb5bf2308,"Brown, Logan and Wilson",Technology,growth,29646,NA,2025-10-22,2027-10-22,0
+f82611b4-928d-4970-80ec-140591f49b48,Martin-Castro,Finance,enterprise,223555,NA,2025-05-18,2026-05-18,1
+050c7e1c-e41e-42df-83cb-7a470cdbece0,Velez Ltd,Healthcare,enterprise,121110,APAC,2024-08-07,2025-08-07,1
+c95a55fe-72a7-4366-8744-9ea2b8df0b21,Brown-Long,Retail,enterprise,241166,APAC,2024-12-11,2025-12-11,1
+c957252c-dee4-40fe-9386-b3e095786728,Tapia PLC,Finance,starter,6451,NA,2025-12-23,2027-12-23,0
+f0e3ade9-44e9-44a2-a5c8-31ed7538b576,"Adams, Reynolds and White",Finance,growth,72770,EMEA,2024-09-16,2026-09-16,0
+7d221a8d-2875-4997-a383-c58fc1cf044f,Harper Inc,Manufacturing,starter,10321,EMEA,2024-01-10,2026-01-09,1
+adbba2da-3864-4c28-ab5d-236e9af00c8c,"Johnson, Christensen and Woods",Retail,enterprise,177029,NA,2024-05-24,2026-05-24,1
+bce3bb79-c7f9-4dd9-b789-787d676d8375,Adkins and Sons,Technology,growth,59662,APAC,2023-12-14,2025-12-13,1
+98b520f4-4ebf-48ca-a94f-3ce143feaf56,Stanley-Luna,Technology,growth,53169,NA,2024-03-14,2026-03-14,1
+df682065-0de8-4e46-ad28-697d50db531d,"Hickman, Davis and Chavez",Technology,growth,49027,APAC,2024-01-03,2025-01-02,1
+c590aa8b-ce52-4fa4-b92d-64e1c47a583f,"Watson, Griffin and Waters",Healthcare,growth,48514,APAC,2025-11-18,2027-11-18,0
+2c5e361e-e17d-472a-a626-b10cb7549320,"Miller, Wilkinson and Howard",Healthcare,enterprise,98240,NA,2023-05-18,2024-05-17,1
+b805e9af-f92f-4306-9c30-5f9508efaf70,"Rojas, Cooley and Marshall",Healthcare,starter,5271,EMEA,2023-01-13,2025-01-12,1
+de116074-83f8-4c77-ae70-0371b2c9634a,"Gomez, Mendoza and Reid",Finance,enterprise,141596,NA,2023-12-13,2025-12-12,1
+dfdf6aa4-25dd-4112-a079-2adbd257721c,Anderson-Booth,Finance,enterprise,284310,EMEA,2023-04-03,2025-04-02,1
+39876e87-bf09-43f5-b6d6-44e71d056f16,Thompson-Bennett,Healthcare,starter,6090,EMEA,2024-03-24,2026-03-24,1
+bd5af5cf-ce59-41d9-8a92-37a08f3d2c08,Richardson-Harrington,Manufacturing,starter,5142,APAC,2025-05-28,2027-05-28,0
+37cff554-9f84-49ee-b088-ada66da4016f,Knight Inc,Healthcare,starter,13759,NA,2025-10-21,2026-10-21,0
+dc668a03-65c6-492e-9f42-7ca477ff1f00,Lewis LLC,Finance,growth,73573,NA,2025-11-25,2026-11-25,0
+f722db67-651c-40f8-acc6-0bcd7767f247,"Rangel, Hernandez and Lyons",Retail,enterprise,299830,APAC,2025-01-04,2026-01-04,1
+468fd0b3-8618-42b1-84a7-bf32f8542c17,Yang-Smith,Manufacturing,starter,14956,NA,2024-01-06,2026-01-05,1
+afad30fe-1734-41bf-8a57-5a3ee7a1652d,Adkins Group,Healthcare,enterprise,127057,NA,2025-07-07,2027-07-07,0
+344a7f3f-24cd-4ed4-a646-fad20ff64f9a,Short Inc,Technology,enterprise,163365,EMEA,2025-01-17,2026-01-17,1
+30240e7d-9a1d-4004-b593-de5812393033,Wilson PLC,Retail,enterprise,245186,EMEA,2024-10-16,2026-10-16,0
+280c8e78-921b-437a-83ca-928db4bb167c,Smith-Hancock,Manufacturing,starter,8251,APAC,2023-07-11,2024-07-10,1
+24e8e8cc-faa7-4851-b2ff-4ac7e4f294e0,Gardner Ltd,Technology,growth,39246,NA,2024-12-10,2025-12-10,1
+213ea11a-4a4b-4939-a7f4-a6472e9210e2,Gregory-Patterson,Manufacturing,enterprise,136532,APAC,2024-06-08,2026-06-08,1
+dd89231b-5925-4880-b35e-0e6627650b13,"Larson, Williams and Andrade",Retail,enterprise,282761,APAC,2025-05-19,2027-05-19,0
+27e0ac83-40ea-4380-9314-d5740e2aabde,Sullivan PLC,Retail,enterprise,294509,NA,2023-10-04,2025-10-03,1
+4f5b2edc-5b24-4fa4-81fe-85e7ab7bbcb0,Hughes-Johnson,Retail,enterprise,227671,EMEA,2025-08-15,2026-08-15,0
+9ce5c7da-8f5f-48ad-bba3-0f5af6bcc5fa,Byrd PLC,Finance,growth,74973,APAC,2025-04-10,2026-04-10,1
+aa3e03e3-d2d7-44cf-b320-70662403b5f7,Crawford Group,Manufacturing,enterprise,158295,EMEA,2024-12-15,2025-12-15,1
+587882aa-3f91-46c0-b628-5b068e88592b,"Hoover, Campbell and Lin",Retail,growth,51629,EMEA,2024-03-16,2025-03-16,1
+308522ec-bcd4-46fc-a87d-d7efe3dc8995,Calderon-Pace,Retail,growth,28956,NA,2023-04-24,2024-04-23,1
+417e5c81-1323-4555-b8da-7f040f0a3c81,Olsen-Bartlett,Manufacturing,growth,43825,EMEA,2024-12-25,2025-12-25,1
+321ef7e8-ae00-45ee-87a1-d934a9095c36,Potter-Turner,Manufacturing,enterprise,83671,NA,2025-02-03,2026-02-03,1
+e3032fad-edee-4469-b0ea-ac569376239b,"Sanchez, Mercer and Gallagher",Healthcare,enterprise,140288,APAC,2024-07-12,2026-07-12,0
+1bb1eb5a-c03c-48c9-af07-e256e14081db,"Colon, Miller and Hunt",Finance,enterprise,84570,NA,2025-02-10,2027-02-10,0
+bffd5afd-1954-4f78-b76d-e0582a9a74f3,Cohen Inc,Retail,starter,6453,APAC,2023-05-17,2025-05-16,1
+8caf2022-7a84-440e-bc14-3cf1da4f0acb,"Murray, White and Harding",Healthcare,enterprise,173364,NA,2024-02-22,2025-02-21,1
+757e3823-373d-48f7-9dfd-42650d9b553c,Diaz-Martin,Finance,starter,7147,NA,2025-10-01,2027-10-01,0
+37989a53-f194-4b46-be61-8371373a0089,Williams and Sons,Healthcare,enterprise,132468,NA,2025-08-11,2026-08-11,0
+de672ba3-2c29-4c23-889e-df412fa77cc2,Reeves-Shaw,Finance,starter,6694,EMEA,2024-03-21,2025-03-21,1
+d7c67e7a-99d7-4f7f-a3d3-96985ce937af,Ramirez PLC,Retail,starter,10641,NA,2025-10-15,2027-10-15,0
+1b306632-26f7-41c7-8a08-0813259f4903,"Allen, Henderson and Williams",Manufacturing,enterprise,188704,EMEA,2025-08-07,2027-08-07,0
+7031ace4-2e2e-4be5-a53a-22a169245718,"Harris, Bailey and Herrera",Retail,growth,64034,NA,2025-07-24,2026-07-24,0
+dcb5e225-c319-4dde-9dc4-766f205ea56a,Carter and Sons,Retail,starter,11994,NA,2023-09-17,2024-09-16,1
+57deb97e-e21c-4290-90d0-4d31bb31496e,"Clements, Bush and Schroeder",Manufacturing,growth,33622,NA,2025-07-12,2027-07-12,0
+5a7d5276-6de5-44c7-87fc-c2a7eda2019c,Hayes Ltd,Finance,starter,9944,NA,2023-04-14,2025-04-13,1
+595dfffb-8d01-4b9c-bb42-d8e65082f58f,"Rosales, Rowe and Peterson",Manufacturing,starter,11240,EMEA,2024-04-26,2025-04-26,1
+8d415a47-01fa-490e-ad9c-9444007f6bc8,Gill Ltd,Finance,enterprise,173212,EMEA,2025-11-25,2027-11-25,0
+2706a587-ad83-4619-946e-186d3f52e9d0,Williams Inc,Finance,enterprise,135968,EMEA,2024-10-20,2026-10-20,0
+256848b6-e347-49a6-aee7-170a34781e8c,Cook-Bruce,Retail,growth,49071,NA,2025-12-21,2027-12-21,0
+9baa88a9-7ad9-440f-83f3-e8f7dbbe1ec1,Wilson-Gates,Finance,starter,5598,APAC,2025-02-28,2026-02-28,1
+bd2a73b5-c5f6-4708-abfe-9734fdcaee1f,"Bradford, Fisher and Jones",Manufacturing,starter,12118,EMEA,2025-12-05,2026-12-05,0
+ae87da69-9645-4a05-96fb-5f43b280b1e0,"Alvarado, Hoffman and Conner",Technology,enterprise,112299,NA,2025-12-08,2026-12-08,0
+2cfd5e71-45bb-4953-b7a6-c9d065ff3091,Davis Group,Healthcare,starter,14003,NA,2024-02-07,2025-02-06,1
+4c206644-a901-409c-a2cc-856c303f8e24,Ochoa-Brown,Healthcare,enterprise,187094,EMEA,2024-04-20,2025-04-20,1
+0991201d-1323-43db-b83e-59f3660f6d91,Gallagher LLC,Technology,enterprise,136803,EMEA,2023-05-13,2025-05-12,1
+ebba2055-6c3a-4588-a230-7e6e16847f3a,Nolan Ltd,Retail,starter,14429,EMEA,2025-09-14,2026-09-14,0
+928ecf88-0103-4f5d-922e-fa96d7a6d456,Duffy and Sons,Retail,starter,10653,NA,2025-06-08,2027-06-08,0
+8eae3cda-4a08-4593-9db1-3342006b8f06,"Moore, Wilson and Lang",Retail,growth,42160,EMEA,2023-07-01,2024-06-30,1
+ba68bf53-70ff-441a-a949-c848e86997b2,Jensen PLC,Manufacturing,growth,47810,APAC,2023-10-27,2025-10-26,1
+403153a0-2658-40bb-8e7a-121126eed95b,Reed-Morgan,Manufacturing,enterprise,148943,NA,2023-09-09,2024-09-08,1
+2e65d905-a098-4a6b-87fe-74ffaaf38db9,Simpson PLC,Finance,growth,51248,EMEA,2024-07-20,2025-07-20,1
+963d6993-3f10-4593-be70-f3af9adcfbf7,Walker and Sons,Retail,growth,63884,APAC,2025-03-07,2026-03-07,1
+0c91fcfe-7985-4814-8cf6-e6bf72ff04bf,"Davis, Shaw and Keller",Manufacturing,enterprise,128537,EMEA,2025-10-02,2027-10-02,0
+6d6bfd8f-f483-4958-824b-6b914c504eaf,Mendoza-Pratt,Retail,growth,33708,EMEA,2024-08-03,2026-08-03,0
+09d74ac0-d720-41cf-9145-0f61b5ada521,"Grant, Dean and Calhoun",Technology,starter,6982,EMEA,2023-04-26,2024-04-25,1
+ab929f92-3916-4b2a-a2bf-a25950cb2f26,"Moore, Washington and Larson",Healthcare,starter,14763,NA,2025-03-19,2026-03-19,1
+555d0f2a-1902-40ef-95c6-e6615cd4fd3d,Wright-Torres,Finance,growth,50584,APAC,2025-08-23,2026-08-23,0
+351d3adc-eb32-47eb-bd40-1ef417e2983e,Harris LLC,Retail,enterprise,153744,APAC,2025-11-03,2027-11-03,0
+d7537597-17e7-4804-83df-bd264066f93c,Sampson and Sons,Healthcare,growth,61115,APAC,2024-09-22,2025-09-22,1
+b1e51404-ff0d-4774-a620-febd8385a6fe,Holt LLC,Healthcare,starter,14389,APAC,2023-04-22,2024-04-21,1
+10156cb0-fe7a-4af6-83e6-9f8e454b52e3,Fisher Inc,Healthcare,enterprise,256917,NA,2023-12-05,2025-12-04,1
+aad58934-908f-4d28-81f4-32d4878f1223,Dyer-Kline,Manufacturing,growth,41552,NA,2025-06-09,2026-06-09,1
+90275646-59bf-435d-9a94-d60f58d2415b,Fox-Hanson,Manufacturing,growth,72301,NA,2024-10-28,2025-10-28,1
+13947b4a-d21b-4985-bdae-e97f4973cdf4,Perry-Thompson,Technology,growth,74341,APAC,2023-06-09,2024-06-08,1
+a03355b8-fd67-4654-b916-8be635e9b049,Mccoy Inc,Retail,enterprise,143955,APAC,2025-04-25,2026-04-25,1
+9ebf9089-4b18-40ba-a619-553f502d8a40,Lynch Inc,Finance,starter,14276,EMEA,2025-08-04,2027-08-04,0
+1e94ec5c-e97d-4f73-a72b-77c7c7579a30,"King, Rodriguez and Wolfe",Healthcare,starter,5639,APAC,2025-12-02,2027-12-02,0
+b91e6299-07f6-41b5-8d64-40b85f2106ec,"Cross, Ray and Miller",Finance,growth,34305,EMEA,2025-07-13,2026-07-13,0
+311f3b2e-2aa2-4738-83a4-5011ddc80e53,Newton PLC,Retail,starter,14519,EMEA,2024-01-13,2026-01-12,1
+0ac36a9f-fc75-4ee8-9908-dc7555296856,Allen-Berg,Retail,growth,48582,EMEA,2024-09-27,2026-09-27,0
+2044f51d-97be-475e-a1d8-c81fde3106c0,Cooper Inc,Finance,enterprise,94465,EMEA,2024-09-22,2026-09-22,0
+9f152791-2df2-4e09-9bb9-b104443e5796,"Brooks, Smith and Hoffman",Finance,starter,9087,APAC,2023-10-09,2024-10-08,1
+8c5d6b32-8221-448a-aec9-f2ce52b89ef2,Rodriguez Group,Retail,enterprise,268738,APAC,2025-07-06,2027-07-06,0
+d1f06e8f-e948-493b-8f35-0c764393d7f1,Gordon-Peterson,Manufacturing,growth,31117,APAC,2025-09-24,2027-09-24,0
+cef6031a-38a8-4add-bdfb-68572feb1ad6,Parker PLC,Technology,enterprise,170354,NA,2024-03-10,2026-03-10,1
+9cf3b0cb-13dc-4015-962b-dfc3715bb102,Martinez Group,Manufacturing,starter,7342,APAC,2025-06-12,2026-06-12,1
+81bd4846-0581-4727-989f-7c17ca05ae62,Butler-Flores,Healthcare,starter,9787,NA,2024-12-02,2025-12-02,1
+340ecf5f-c7fa-432f-9080-07db3364265f,Smith-Goodman,Technology,growth,17604,EMEA,2025-01-27,2027-01-27,0
+c1ee9d95-3de5-406d-89c3-0ee3db4f2308,Bennett-Carr,Retail,enterprise,148736,NA,2024-08-27,2025-08-27,1
+d277e5e1-70e2-4b34-9f3c-465405569f87,"Barry, Ruiz and Crawford",Healthcare,growth,68871,EMEA,2024-12-26,2025-12-26,1
+d2c7defd-f4c2-4fa3-b761-9284d6963452,"Watson, Dixon and Hopkins",Healthcare,enterprise,171165,EMEA,2024-03-02,2025-03-02,1
+5b387e5b-fa32-425c-a023-a766f15bb50e,Taylor and Sons,Finance,enterprise,216919,NA,2025-04-15,2026-04-15,1
+d83ab9ef-06d1-4506-b788-6e75bc78b1b8,Gomez-Silva,Finance,starter,13658,NA,2025-08-13,2026-08-13,0
+505abd4a-ad6e-4ea8-953b-d9d680e7a25c,Baker-Holloway,Retail,enterprise,92942,NA,2025-02-21,2026-02-21,1
+c9d4dfa4-bd39-4cb6-ba06-e973d50d289f,Smith-Martin,Healthcare,starter,13581,APAC,2025-05-24,2026-05-24,1
+0b181cb7-ded2-48e1-af50-4a43657f052f,Drake Inc,Retail,growth,21918,APAC,2023-03-23,2025-03-22,1
+e842ce3e-2ad1-43d9-b32d-be74de767ba8,"Owen, Bonilla and Tran",Finance,growth,36828,EMEA,2025-08-08,2027-08-08,0
+7f823e43-9c2c-4936-ae5e-e25e71a7e1f4,"Guerrero, Mendoza and Boyd",Technology,growth,35705,APAC,2024-09-14,2026-09-14,0
+f21af536-0613-4242-a681-b4c6f4095051,Williams-Delgado,Technology,growth,42646,APAC,2024-03-02,2025-03-02,1
+182ef2a9-fd6d-40c5-a15f-07cf6a700443,Henson-Cox,Technology,enterprise,105686,APAC,2024-10-01,2026-10-01,0
+21aac536-049a-43a3-9f83-af7e0be0969d,Frazier Group,Technology,starter,8907,EMEA,2025-06-06,2027-06-06,0
+9fc66873-74b3-4060-bdf7-eea062a7591a,"Schultz, Ramirez and Ramirez",Technology,enterprise,175675,NA,2025-05-23,2027-05-23,0
+133dca49-cd67-40d8-94fd-c68395c5a797,Fischer PLC,Technology,growth,44626,NA,2023-01-13,2024-01-13,1
+b3f94903-b41b-4319-a56b-73871129bdac,"Reid, Melton and Miller",Technology,growth,37973,NA,2023-09-01,2025-08-31,1
+f129348b-b5ac-4e68-a48b-bb1cec0e9ebf,West-Crane,Technology,growth,76272,EMEA,2024-05-14,2025-05-14,1
+6ddb7a34-0bd3-46f5-8cdd-1707360d92e0,"Oconnell, Garcia and Paul",Healthcare,starter,12913,NA,2024-01-07,2026-01-06,1
+e8d53a9d-d07b-4049-a6ca-f9d76fd50e7f,"Ortiz, Hall and Case",Manufacturing,starter,11036,NA,2025-08-01,2026-08-01,0
+30fc2998-6457-4adf-a23c-ecb24d6d7a79,"Holmes, Stein and Bell",Retail,enterprise,187232,NA,2024-02-05,2026-02-04,1
+8326e5d7-adc6-4ada-ad6a-39f1197a6bd0,"Hines, Pearson and Lin",Finance,enterprise,241770,NA,2023-06-13,2025-06-12,1
+2c494b5f-2f1f-4714-8474-182447e94d0c,Smith-Wallace,Technology,growth,57591,APAC,2024-11-04,2025-11-04,1
+76bde202-2063-42c4-8453-12e7e2acfc19,Thompson Group,Finance,starter,8876,NA,2025-10-08,2027-10-08,0
+7c9ccc29-9f37-4ce6-b5df-e2aa512c7050,Garcia Inc,Healthcare,starter,6161,NA,2023-11-16,2025-11-15,1
+eedb41c6-2bd2-4794-86fc-c5d0ac318e1c,Long Ltd,Technology,starter,12608,NA,2025-04-15,2027-04-15,0
+17f6a053-dad8-49fa-b64f-e7359cdb4748,Raymond Ltd,Healthcare,growth,20162,APAC,2023-05-05,2024-05-04,1
+89553b7d-d935-47a7-989b-4586a46a5e59,Roach and Sons,Finance,growth,65493,NA,2023-01-06,2024-01-06,1
+c4ffaccf-dbc5-491a-a876-82c96d13cf64,Rivera-Snyder,Healthcare,enterprise,263774,APAC,2024-10-01,2025-10-01,1
+7b4b1d42-a652-4ff5-aff9-28d5bd9e6caf,Powell-Frye,Manufacturing,starter,13342,EMEA,2025-02-02,2026-02-02,1
+64381588-f029-400e-a4e4-54a137a62266,Perez-Fox,Technology,enterprise,149542,NA,2023-10-11,2025-10-10,1
+48b5db7e-8672-4678-9509-118ed3b2e099,Stewart-Brown,Manufacturing,enterprise,142892,EMEA,2024-01-11,2026-01-10,1
+4541f21d-b4a8-4882-a41e-8959d66cf544,Pollard-Johnson,Retail,growth,38121,APAC,2024-07-20,2025-07-20,1
+53d8bace-2912-4b50-92a7-79bf335dbcc9,Brown LLC,Technology,enterprise,270113,NA,2023-11-01,2024-10-31,1
+f73b42a5-d0b5-404b-af57-a6c5e56e492c,Russell Ltd,Manufacturing,starter,13263,NA,2024-07-15,2026-07-15,0
+4d2c98d5-41c5-4a96-a00c-eb63148128f0,Rodriguez-Lopez,Finance,enterprise,194364,APAC,2025-01-09,2026-01-09,1
+3e6804d2-7de5-4122-8a95-42449db010c0,"Perkins, Ross and Bush",Technology,growth,17293,APAC,2024-12-17,2026-12-17,0
+4a15d71b-5423-4cd9-8a9d-1a6afaf167ae,"Dunn, Lee and Short",Retail,growth,44800,NA,2023-02-20,2025-02-19,1
+752f74d6-df86-4272-b363-a56e692e76ed,Thompson-Peters,Retail,starter,7603,APAC,2023-01-16,2024-01-16,1
+04b44ffd-24e6-4660-a692-8eb6fbf7c620,Carter-Bush,Technology,starter,9090,EMEA,2024-02-06,2025-02-05,1
+0a002028-684b-4d72-b345-f0a001179006,Cohen-Murphy,Technology,growth,70504,APAC,2025-02-01,2026-02-01,1
+b4607c2c-3e57-47ef-b091-6cd1ec98d9cc,Lopez PLC,Retail,starter,5794,APAC,2024-05-26,2025-05-26,1
+1a5cdbeb-c434-4ae1-abde-d28be279c5b0,"Willis, Gibson and Taylor",Retail,growth,37235,APAC,2023-09-16,2024-09-15,1
+38944ff5-89c4-4565-bbab-216bf51614b0,Briggs-Hutchinson,Technology,starter,12707,APAC,2025-07-01,2027-07-01,0
+e9635e9b-6984-4651-9aaf-9cd3b3267376,Schneider Inc,Manufacturing,starter,5391,NA,2024-03-28,2025-03-28,1
+84a22b44-7991-4a54-8c82-5857b4e4d59e,"Brown, Sloan and Wright",Healthcare,growth,40548,APAC,2025-01-19,2027-01-19,0
+602220c9-d969-4434-a877-b1581a13252a,"Clark, Baker and Roberts",Retail,enterprise,157536,NA,2024-11-12,2025-11-12,1
+ae5e63be-df98-4ed4-baf7-6931116c9f27,Williams Group,Healthcare,enterprise,203629,NA,2024-12-28,2026-12-28,0
+e18f5c48-0aec-4548-b724-047b7d2266f5,"Davis, Compton and Rodriguez",Healthcare,enterprise,169591,EMEA,2025-06-26,2027-06-26,0
+a23f901e-1f9a-496e-9dad-5a4c2310333c,Mcgrath Inc,Retail,starter,5918,NA,2024-08-13,2025-08-13,1
+9c98c791-0f2c-4e79-acaa-c978f872c833,Watson-Byrd,Technology,enterprise,81287,EMEA,2025-07-13,2026-07-13,0
+23b3b550-591d-42fe-b9dd-3d45204968a3,Snyder LLC,Technology,starter,10649,EMEA,2024-06-15,2025-06-15,1
+40d4f7e6-03eb-43d6-9670-4a2f93caef0b,Jennings-Koch,Technology,growth,48572,EMEA,2025-10-01,2026-10-01,0
+6cd730c9-06b5-4cfd-9517-d3eb890b7d19,Meadows Group,Finance,enterprise,267550,APAC,2025-06-16,2027-06-16,0
+24ccdc6f-b0d3-4042-ae7e-e75fd329f51d,Hicks Inc,Finance,starter,11205,EMEA,2025-11-11,2027-11-11,0
+67a1a502-3e8c-48ba-a732-b8b66f911213,"Schneider, Harris and Powell",Manufacturing,growth,57361,NA,2023-03-09,2024-03-08,1
+118242e8-a20b-4284-8623-80ac26a15010,"Logan, Lin and Johnson",Finance,starter,10791,EMEA,2023-10-18,2025-10-17,1
+d659290f-b25c-4777-a270-637c7ca5eb72,Parker-Brown,Finance,enterprise,144042,EMEA,2024-02-04,2025-02-03,1
+4c6bb607-6c51-4f9b-9059-ba3367aa3d62,"Ford, Morris and Romero",Manufacturing,enterprise,269208,APAC,2025-05-09,2026-05-09,1
+c1879099-86b7-4430-9a40-98155ebab19f,Archer-Cook,Retail,enterprise,273822,EMEA,2025-05-12,2027-05-12,0
+9618d903-1681-49dd-a475-34a2c8ca26bf,Bennett Inc,Retail,growth,32228,NA,2025-10-17,2027-10-17,0
+6a9944f8-db53-451f-98d1-711cf2d0a55d,Collins-Edwards,Technology,growth,38418,EMEA,2024-06-08,2025-06-08,1
+880d30ee-2476-4278-ba72-542a8521450f,Pennington Ltd,Manufacturing,growth,35556,APAC,2025-04-14,2026-04-14,1
+75ea5990-4dbd-408f-a876-2a3dc21d622d,White PLC,Retail,enterprise,110214,EMEA,2023-05-16,2025-05-15,1
+f0d16732-e934-4d74-b25a-f83efb83265d,Diaz-Pope,Manufacturing,enterprise,220436,APAC,2024-04-13,2025-04-13,1
+fe543ce7-7c6f-4710-bdae-fb3b6955273c,Pittman Ltd,Retail,growth,32205,APAC,2025-03-10,2027-03-10,0
+bc0643dd-25be-48bd-857e-8bb8e9fe82c1,Pineda Ltd,Manufacturing,starter,8924,APAC,2024-06-12,2025-06-12,1
+b112f104-c104-458c-a269-99b3833f39a3,"Williams, Bowen and Wilson",Finance,enterprise,170465,EMEA,2024-09-10,2025-09-10,1
+5281aaa0-4633-4dd4-b5f7-fc17829edfa7,"Jones, Miller and Stafford",Retail,enterprise,297677,APAC,2025-05-24,2026-05-24,1
+afd9702a-dd6b-4213-b52d-6e7193974098,"Ross, Ayers and Alvarez",Technology,growth,41343,EMEA,2023-01-05,2024-01-05,1
+913de7b2-7d41-4a2a-b13a-ed348c9d17e6,Roberts-Williamson,Finance,growth,25737,NA,2025-03-04,2027-03-04,0
+f53362f8-0f09-4167-9111-da8572a73292,"Ferguson, Alexander and Arellano",Retail,starter,5486,NA,2025-10-26,2026-10-26,0
+ec1d7f1f-581a-4873-9a9d-de78b90f6607,Perez Inc,Manufacturing,enterprise,230084,NA,2023-03-16,2024-03-15,1
+540f99e1-b82f-4033-af4c-45ebb854d1c8,Newton-Knight,Healthcare,enterprise,96876,EMEA,2024-04-17,2025-04-17,1
+3c48c4a5-b285-4b9b-98bd-000cb27b6a09,Alvarez Ltd,Manufacturing,starter,13439,EMEA,2023-05-17,2024-05-16,1
+3126f709-b0fa-4fed-9759-01f4ae90a75e,Moreno-Wilson,Finance,enterprise,260672,EMEA,2025-06-17,2027-06-17,0
+1398b3e5-daf3-48cf-9b65-b06fb16391f4,"Holloway, Perez and Case",Healthcare,starter,13864,EMEA,2025-07-27,2026-07-27,0
+f48e6be2-c0b5-4bf3-bb77-785d11625095,Le and Sons,Healthcare,growth,19347,EMEA,2024-07-17,2025-07-17,1
+05b301e7-a9b3-412b-b36c-97ec4daeda53,Black and Sons,Healthcare,growth,30770,EMEA,2024-04-17,2026-04-17,1
+9ba831a1-fdc5-4fd3-8efa-1cf8f6293ea7,Johnston PLC,Manufacturing,starter,10801,NA,2024-03-04,2026-03-04,1
+ba4ac0cf-85b7-422c-97ec-84ee582c39c7,Thompson-Zhang,Healthcare,starter,8349,APAC,2024-12-19,2026-12-19,0
+9f3e3337-8921-43b1-b507-5ce25d46018d,"Lucas, Holmes and White",Finance,enterprise,298821,EMEA,2024-03-10,2026-03-10,1
+37538820-f5f1-46ff-aa7d-33e9b3df2f13,Marquez LLC,Retail,growth,27870,EMEA,2025-09-11,2026-09-11,0
+31e4fa81-76ae-4aba-adaf-1883e0ecd30d,Welch and Sons,Healthcare,growth,28835,APAC,2023-02-14,2024-02-14,1
+ffa161c6-06ed-4886-aec4-e5d0446f219e,Hess-Morse,Healthcare,starter,9732,EMEA,2024-02-01,2025-01-31,1
+d0359533-e69d-4491-be40-a89d3693c066,Conner-Spencer,Technology,growth,77053,EMEA,2025-01-01,2026-01-01,1
+4812c71a-14a3-4cd3-9aaa-50661039f627,Weiss Ltd,Finance,enterprise,274290,APAC,2023-12-22,2025-12-21,1
+d223e9d1-9e8c-4440-971b-b91c2ce2e6c2,Lewis-Robertson,Healthcare,enterprise,122292,NA,2023-02-18,2025-02-17,1
+bf2fbab4-6e97-432c-aaa2-2ec3c137d6df,Brown-Wolf,Manufacturing,growth,37263,NA,2023-08-27,2024-08-26,1
+1d0dc2e9-76af-4e73-be99-4c8ae1e410e9,Leblanc-Wade,Manufacturing,enterprise,195653,NA,2025-07-14,2027-07-14,0
+86d1f0c6-2164-499f-b23c-b914b50d1484,Solis-Johnson,Healthcare,enterprise,277805,APAC,2023-03-22,2025-03-21,1
+299f438c-5a01-4804-a3e9-da7a2974024a,Carlson Inc,Technology,starter,6131,NA,2024-07-04,2026-07-04,0
+cf488a33-74fd-4758-a1cf-a6bff81bba77,"Gonzalez, Galloway and Grant",Technology,growth,72309,NA,2025-12-03,2026-12-03,0
+27fcbea7-629e-40cb-8d18-e99dbca12a5a,"Livingston, Manning and Kelly",Healthcare,enterprise,292707,APAC,2025-01-17,2026-01-17,1
+1b9801d0-8208-4dc7-9c26-02d485b23271,"Moore, Thomas and Best",Retail,starter,7103,APAC,2025-01-25,2026-01-25,1
+55c9f51c-8515-4b65-a66b-e96b09cb5ea0,"Wright, Lee and Bond",Manufacturing,growth,24755,APAC,2024-02-02,2025-02-01,1
+18549225-d0b8-4ef3-bf28-20d87df562df,"Hayes, Robinson and Ward",Technology,growth,15735,NA,2025-04-15,2027-04-15,0
+a6c68f38-52b7-49fe-bf3d-0a14fe9fc85a,Parrish Group,Healthcare,starter,10569,EMEA,2024-12-14,2025-12-14,1
+e7543ce8-c746-41f9-b5e3-6ea2ceb7b4dd,Bowers PLC,Technology,enterprise,183959,APAC,2024-04-01,2025-04-01,1
+6a80cd79-cff2-474f-9f68-02b1589cec36,Weaver-Jones,Finance,starter,7794,NA,2024-04-26,2026-04-26,1
+740ccda5-724d-4125-aa35-fb19e21a2b8c,"Turner, Lopez and Walker",Finance,enterprise,110693,NA,2024-02-20,2025-02-19,1
+610328a7-8916-4fd1-b590-78fa474fe818,Ross LLC,Healthcare,growth,56767,APAC,2024-05-08,2025-05-08,1
+3b987c26-9f40-41b8-b67c-a5bb6e9b1c84,"Vincent, Wall and Frey",Finance,starter,9580,EMEA,2025-11-03,2026-11-03,0
+0f471751-23e6-44ea-aeda-c7c6b3abfe83,Waller Group,Retail,starter,12435,APAC,2025-03-11,2026-03-11,1
+97d16dbf-553a-4ae2-9f08-307763ad649f,Thomas-Rios,Finance,starter,14343,APAC,2025-08-19,2026-08-19,0
+a2ebe4fb-df3a-4346-8560-827e17f34e35,"Jennings, Jones and Miller",Retail,enterprise,241142,APAC,2024-08-05,2025-08-05,1
+714681dd-135f-41b2-abf0-730d7aa4cadc,Porter-Howard,Finance,starter,5246,EMEA,2025-07-12,2026-07-12,0
+18e2234e-7568-4696-91af-a55ba7a4906d,"Jackson, Stanton and Williams",Manufacturing,starter,9041,APAC,2025-12-17,2027-12-17,0
+ac19d426-24c4-43fc-81f5-702d8d5014fc,Nichols PLC,Healthcare,enterprise,145233,APAC,2025-06-13,2026-06-13,1
+90f68efc-c457-4001-9e01-2f64f599cb54,Page-Lopez,Retail,growth,55068,EMEA,2024-07-11,2026-07-11,0
+e6311e2a-94f8-4afc-8724-267b6367d44f,"Martin, Miller and Martinez",Finance,growth,70862,NA,2023-06-16,2025-06-15,1
+f2809daf-b3ad-47c2-bdf0-aded6e26bc20,"Cole, Jones and Hansen",Technology,growth,21875,APAC,2025-12-09,2027-12-09,0
+baf6edd5-9de4-4577-b940-cda314f9c38c,"Mcmillan, Rocha and Moody",Technology,enterprise,230298,APAC,2025-09-25,2026-09-25,0
+260a5f80-d16a-480b-b461-597f5e9de781,"Dixon, Wright and Gamble",Healthcare,enterprise,193574,NA,2025-09-01,2027-09-01,0
+e310e9e9-ca2e-4551-8aba-668ddeb5a75a,Wallace LLC,Retail,growth,41365,NA,2023-07-25,2025-07-24,1
+b0f0fd96-165d-4147-8c19-d87d5745f165,Ramirez and Sons,Technology,growth,18991,APAC,2025-05-16,2027-05-16,0
+d5fbb215-9d3c-468d-a417-d8f5e71438d6,"Weaver, Collier and Davis",Retail,growth,43623,EMEA,2025-08-24,2026-08-24,0
+ee44ae6b-998a-4169-bc28-5c072b5f90b2,Lang-Webb,Healthcare,starter,6110,EMEA,2025-11-14,2026-11-14,0
+8742c9dc-2cab-4fdc-a41f-98b6bb35ba22,"Evans, Vega and Green",Retail,enterprise,286243,APAC,2025-10-03,2026-10-03,0
+e1e038ce-318d-4d8c-a6ea-96278e13ba00,"Mendoza, Miller and Vazquez",Healthcare,enterprise,158808,APAC,2025-08-16,2027-08-16,0
+285f62b1-1125-4bf6-b628-cb2e89c9ea9e,"Williams, Webb and Hogan",Technology,enterprise,256906,NA,2023-05-01,2025-04-30,1
+b226e1bf-ac39-499e-b9eb-23dbd465d0f1,Harris-Duffy,Healthcare,growth,42519,NA,2023-05-08,2024-05-07,1
+3c249534-38bb-4605-b380-89db5454eb79,Gray-Barajas,Healthcare,enterprise,172351,NA,2024-08-03,2025-08-03,1
+890e4aa3-eaa0-4b10-a3ba-908b48079327,Alvarado-Haney,Technology,enterprise,90808,NA,2025-02-15,2026-02-15,1
+68da9aaa-7b81-4d37-a10e-bd59a5e1bb6e,"Guerra, Garcia and Hayes",Manufacturing,enterprise,224461,APAC,2025-03-25,2027-03-25,0
+51ceb3f9-5bc8-4bcc-aa1f-8876761ec39d,"Gutierrez, Long and Walker",Healthcare,enterprise,144903,EMEA,2024-04-21,2026-04-21,1
+24313cba-50bf-494a-9964-31e622b6f19a,Le Group,Finance,starter,12422,NA,2025-09-07,2026-09-07,0
+118b9023-54c9-4b5a-b34e-adcdb7412867,Willis Ltd,Manufacturing,starter,11197,APAC,2024-09-21,2026-09-21,0
+aaf2d81e-5a57-49ee-96ca-5dbcbe3ed326,Young-Vega,Technology,enterprise,249342,EMEA,2024-11-18,2025-11-18,1
+df2e644a-be80-4466-a2e5-69981dcc98d8,Pittman-Johnson,Manufacturing,enterprise,229162,NA,2025-12-03,2026-12-03,0
+96d47051-d7da-47c0-8ebb-0ad0bcccaa8e,Lopez-Taylor,Healthcare,enterprise,191164,EMEA,2024-07-21,2026-07-21,0
+2b90f9d4-d6bc-4238-9a2a-dc37c7b50c5f,Calhoun-Lewis,Healthcare,starter,5971,APAC,2023-02-27,2025-02-26,1
+c3923fb6-3f81-4942-a680-cbf1417b8fab,Camacho LLC,Retail,enterprise,274148,NA,2023-09-02,2024-09-01,1
+cf079396-119a-42d4-821a-279012506870,Brown-Hernandez,Technology,growth,76464,EMEA,2024-03-17,2026-03-17,1
+062cf126-ee6d-4865-90a5-ef7e392eb031,"Williams, Pittman and White",Finance,enterprise,250172,NA,2024-07-06,2026-07-06,0
+34d740f4-2ef4-41ed-b068-3e916b046aec,Hughes-Stewart,Finance,enterprise,243575,NA,2023-10-14,2025-10-13,1
+30196205-211c-4fd5-9094-91aec1a19e70,Nolan and Sons,Finance,starter,6927,APAC,2024-12-22,2025-12-22,1
+fe065930-d4ef-42ef-a8a3-be672ea27b3c,"Morris, Rose and Roberts",Finance,enterprise,275924,EMEA,2025-02-27,2026-02-27,1
+7ad7109b-bbe1-43bb-8c90-f2de2b2dc65d,Welch-Thomas,Healthcare,growth,18570,EMEA,2025-09-06,2026-09-06,0
+e691ae69-9d65-43ba-8aa9-7592639c33c0,"Rice, Mullins and Aguirre",Retail,starter,14052,EMEA,2023-05-24,2024-05-23,1
+13341daa-69f6-4413-ae69-c53054e85053,Ruiz and Sons,Technology,growth,20779,NA,2024-02-06,2025-02-05,1
+c22d762a-e042-40e4-9bda-c8a1deed1495,"Davis, Bell and Arnold",Technology,growth,52663,EMEA,2024-03-21,2025-03-21,1
+e68d4993-0f15-4f76-87b2-fcd5b7485cfd,Velazquez-Morrison,Healthcare,enterprise,128787,NA,2023-09-18,2025-09-17,1
+34cdb42d-c6f0-4299-a02e-bc7d6f06c005,Graham Ltd,Healthcare,enterprise,246936,EMEA,2025-07-06,2026-07-06,0
+4335e910-493a-407c-bd2b-978837b4727a,Berger LLC,Retail,starter,12779,NA,2025-10-13,2027-10-13,0
+dbee696a-1f59-44bc-bef5-30d62e5af63d,"Johnson, Hart and Ramirez",Healthcare,growth,77667,APAC,2024-03-04,2026-03-04,1
+e1f27c07-3718-46db-b848-174345537094,Jackson-Grimes,Manufacturing,growth,62098,EMEA,2023-08-24,2025-08-23,1
+a0390882-ae2a-4393-93c1-0af953b829db,"Hall, Perez and Padilla",Healthcare,starter,7500,EMEA,2023-08-24,2025-08-23,1
+476f6367-2de5-4641-bf1e-910b63fbc42c,Brooks-Hall,Manufacturing,growth,52768,NA,2024-11-26,2026-11-26,0
+eb470853-cf17-4102-9c86-ffd9fa276d43,Navarro-Anderson,Retail,enterprise,263525,APAC,2023-12-23,2024-12-22,1
+630e6473-4495-404c-8183-ec7be0c6d590,Davis Ltd,Healthcare,growth,55899,APAC,2024-08-14,2025-08-14,1
+974720c0-c545-4de2-9758-b2e0e3bfb657,Stevens PLC,Retail,starter,12228,EMEA,2024-05-14,2026-05-14,1
+1430193a-74af-4837-9270-76d25f06e16a,Brooks-Gray,Technology,enterprise,178001,APAC,2023-07-10,2025-07-09,1
+c8e31933-8c65-4fae-845d-90ffd347e960,"Harper, Brown and Thomas",Technology,growth,74681,NA,2023-08-13,2025-08-12,1
+82ec676d-24ed-4ae4-ac0a-2d12d38bc5c3,Simpson-Reid,Manufacturing,starter,13615,NA,2025-09-09,2026-09-09,0
+30e2b105-b099-4640-8dbf-115ca3ac1ebc,"Kelly, Gonzalez and Sellers",Manufacturing,growth,66627,NA,2025-10-01,2026-10-01,0
+aadcff78-edb3-46dc-930b-785e29d3e8e9,Schneider-Melendez,Technology,growth,44104,NA,2024-07-04,2025-07-04,1
+64a27eb4-f42f-4b31-861a-6cfa265cf276,"Henson, Wilson and Robinson",Retail,enterprise,209187,EMEA,2023-11-10,2025-11-09,1
+f31228b1-3479-4cef-9c04-76f64fd2391f,"Lewis, Edwards and Norton",Healthcare,growth,31267,EMEA,2024-09-05,2026-09-05,0
+8ffcda7c-fb35-414a-a1fb-52eb6e3ec99b,"Sloan, Sharp and Mcdowell",Manufacturing,starter,11296,NA,2025-09-18,2026-09-18,0
+273fdef0-b516-4d19-ac1d-f6f93402302b,White LLC,Technology,starter,10875,APAC,2024-10-07,2026-10-07,0
+c52ace80-cd3d-4130-9058-ff4dc5d044d9,Brown-Young,Manufacturing,enterprise,188100,EMEA,2023-12-15,2024-12-14,1
+f6739a27-53fe-44b7-b778-bb7c7e8bece6,Pena-Garcia,Technology,enterprise,105634,NA,2023-07-20,2024-07-19,1
+ed288f6b-a5a8-4754-9dca-01e377e20f57,Francis and Sons,Finance,starter,11855,EMEA,2025-03-08,2027-03-08,0
+231e41b3-67db-450c-8583-a5bb63db6b13,Kim Group,Finance,growth,79766,EMEA,2024-08-03,2025-08-03,1
+f7ad7441-4a2a-4199-8b29-654fcd414b1c,Caldwell PLC,Healthcare,enterprise,142571,EMEA,2025-06-15,2026-06-15,1
+8a0b4cbf-3449-4cdc-b35b-82673b44e278,"Wong, Tucker and Gray",Retail,growth,51176,APAC,2024-10-07,2026-10-07,0
+ec5ae185-13ad-4cd3-b9d8-5293ec8d035f,"Camacho, Stewart and Williams",Retail,growth,19967,NA,2023-12-15,2025-12-14,1
+a3a08f79-2f53-4694-adc7-b4eeb1ef9590,"Ross, Stark and Navarro",Technology,starter,5264,APAC,2023-08-23,2024-08-22,1
+fba5560f-73e7-4b9d-87fd-e161fbd3d0ad,"Bush, Ferrell and Harper",Technology,growth,75399,NA,2023-02-23,2025-02-22,1
+ba10cd46-c79f-49fd-a676-e62c84130588,Smith-Parker,Technology,growth,59848,NA,2025-05-22,2027-05-22,0
+2112bb42-e796-494a-8456-7813131748d4,"Frank, Jackson and Woods",Technology,enterprise,216077,EMEA,2025-08-10,2027-08-10,0
+5cb5b452-c340-4b89-9d51-15158f07480b,Crawford Ltd,Technology,growth,53849,EMEA,2024-03-20,2026-03-20,1
+979f9869-e86b-49f8-8dfa-c4b1c4cb307c,Hill Inc,Manufacturing,enterprise,98359,APAC,2024-08-10,2026-08-10,0
+a53c3376-0453-4626-8680-411c45c8d678,"Ramirez, Hays and Banks",Finance,growth,51797,APAC,2025-03-04,2027-03-04,0
+bf5101c5-fa5d-4010-b2e6-947c49782466,Ross Group,Retail,growth,46569,NA,2024-04-20,2025-04-20,1
+14f63ec2-6408-466a-8ce3-66b4d7b6079f,Miller-Hatfield,Healthcare,enterprise,201760,APAC,2025-02-12,2027-02-12,0
+e3566eba-152f-40ac-89f1-5eeeab1d6a0b,Ferguson-Ewing,Manufacturing,enterprise,112304,NA,2023-07-26,2024-07-25,1
+2725d6eb-4722-4c50-af36-44b9da0f92b5,Cardenas Ltd,Retail,enterprise,144238,APAC,2023-05-13,2025-05-12,1
+c86fdede-0b80-48f5-9c71-e55a32f0eedf,"Hughes, Moore and Saunders",Retail,growth,48215,EMEA,2025-04-23,2027-04-23,0
+22b04939-874a-4af6-b04b-abd404206840,Whitaker PLC,Finance,growth,20531,APAC,2025-12-07,2026-12-07,0
+b77713f1-eb3d-401c-95cb-f68b149c3837,Barnes Ltd,Manufacturing,growth,32803,EMEA,2024-01-07,2025-01-06,1
+a1a0e6f1-6a5a-4b62-810b-26b8c25f4822,Reynolds-Hampton,Retail,growth,72099,EMEA,2024-09-28,2025-09-28,1
+846c4468-e929-4910-8a3b-14a3d4f1c7de,Green-Davis,Healthcare,starter,12394,NA,2025-12-20,2027-12-20,0
+3e24db56-fcaa-4653-b61e-70c35b122588,Gonzalez Inc,Retail,enterprise,295163,EMEA,2025-06-10,2027-06-10,0
+1c8f26b6-e6c6-4a31-a66e-3febde90f7f4,Bowers PLC,Manufacturing,enterprise,252816,EMEA,2024-12-04,2025-12-04,1
+618d7c4e-5bf8-4f56-8785-5bbb5efd5a94,Mendoza LLC,Technology,growth,68717,APAC,2023-01-04,2024-01-04,1
+c43a8309-43e7-429d-bddb-73fbeb3eaa8a,Martinez-Fox,Retail,growth,23673,APAC,2023-12-25,2024-12-24,1
+8dca7ec9-271c-44e9-8873-6381114edecb,Vazquez-Kelly,Healthcare,enterprise,121540,EMEA,2025-04-05,2026-04-05,1
+04983eda-2e80-49fa-8df1-5ebabe094de4,Scott Inc,Retail,growth,34423,NA,2024-01-16,2026-01-15,1
+2ce233b6-666e-4390-a58d-93c303774691,Ho-Anthony,Manufacturing,starter,7607,EMEA,2023-03-11,2025-03-10,1
+5a566fe4-5ae4-4e7d-a43a-697352a9ba75,Haynes-Wilson,Manufacturing,starter,8409,NA,2023-05-12,2024-05-11,1
+47ac5c4d-b495-4761-8493-d08df42e13ef,Chung-Jenkins,Retail,growth,46341,NA,2024-03-11,2026-03-11,1
+7ddc1c3a-42e1-4fcd-9c93-d51f1700bf7f,Benitez-Long,Manufacturing,enterprise,106111,NA,2025-06-24,2027-06-24,0
+b1340b04-e486-47db-bfca-23bc80dc877c,Zavala LLC,Retail,enterprise,272536,NA,2025-01-12,2027-01-12,0
+1c31a08f-4e37-4fc3-af85-0b1986e98dc7,Villa-Kelly,Finance,growth,45028,NA,2024-12-16,2025-12-16,1
+ef80235d-3126-4b85-98b2-c5e75c6287d6,Hill-Coleman,Finance,starter,10713,NA,2024-05-08,2026-05-08,1
+8dd695a3-adf0-49af-a8d4-a1c12bd74354,Williams Group,Manufacturing,enterprise,154367,EMEA,2025-12-19,2026-12-19,0
+43f5da73-1857-4d92-b296-a947dfdd14ec,Hill-Taylor,Healthcare,growth,42414,EMEA,2024-02-12,2026-02-11,1
+01efc755-d25b-47c4-8a5f-4dc04bbc5817,"Carter, Thompson and Graham",Retail,enterprise,195899,EMEA,2025-04-09,2027-04-09,0
+c510cddb-e2db-4b81-87dd-b2e3292c41f7,Walsh LLC,Healthcare,enterprise,107512,NA,2023-08-22,2024-08-21,1
+c129e4fe-5eb6-434c-a1c2-39a17e10ae98,"Lawrence, Patel and Murray",Finance,growth,49880,EMEA,2025-05-18,2026-05-18,1
+a9f32fe2-7fb1-4930-8bb6-8b2b97b3caad,"Peterson, Dawson and Lewis",Retail,starter,6845,NA,2025-12-15,2027-12-15,0
+d402f8d9-624d-48eb-906f-fbe4a2f43a0b,Vance-Hubbard,Technology,enterprise,82345,EMEA,2024-12-04,2026-12-04,0
+15c0e07b-9153-4215-b2f0-9799189752e2,Smith and Sons,Manufacturing,growth,58715,NA,2025-07-28,2027-07-28,0
+3accf934-7bd7-4d96-8f77-2f6685d3f5e3,Donaldson-Johnson,Manufacturing,starter,9360,EMEA,2024-07-24,2025-07-24,1
+9dfd38d0-666d-46cf-a19d-7c451c75498d,Rodriguez-Payne,Finance,enterprise,138760,APAC,2025-04-19,2027-04-19,0
+d8493b57-feeb-4a82-a757-e897a3bca007,Hunter and Sons,Retail,starter,7750,APAC,2024-12-27,2026-12-27,0
+c9565706-40cb-4eb8-ac4a-fdd186d5e0c9,Webb-Burns,Technology,growth,20078,NA,2023-02-16,2025-02-15,1
+0fbe2257-793e-4245-bb40-448d4a3f3696,"Owen, Wilson and Cohen",Healthcare,enterprise,128773,APAC,2025-10-24,2027-10-24,0
+b1091b8c-5cd9-4a4f-964c-66d2f9e64005,"Norris, Watkins and Anderson",Manufacturing,enterprise,215484,NA,2024-04-01,2026-04-01,1
+bd4516bc-b78d-492d-8043-df57711831d6,"Preston, Walsh and Brown",Finance,enterprise,131597,NA,2025-10-16,2027-10-16,0
+39bfe1bc-d894-4773-bae8-4996e2da4be7,Jones-Davidson,Manufacturing,enterprise,267572,EMEA,2025-06-12,2026-06-12,1
+a158c230-a844-4a0b-b11f-06fce6d0f2a3,"Elliott, Stephens and Stafford",Technology,starter,5062,EMEA,2024-08-01,2026-08-01,0
+bdd93964-2f0a-433c-a660-076dfcf38c61,Fleming Ltd,Finance,enterprise,235905,EMEA,2023-12-10,2025-12-09,1
+a5871fef-a275-4939-b708-a230438f835e,Thompson LLC,Manufacturing,growth,49625,EMEA,2024-05-05,2025-05-05,1
+b28b2d3f-ad3d-4071-a13f-575a9a4ef753,Rowe-Smith,Manufacturing,growth,57633,APAC,2025-02-08,2026-02-08,1
+85027ce3-1a70-4efe-af92-f7d4a2e1f9b5,Watson-Best,Finance,starter,10666,EMEA,2024-01-09,2025-01-08,1
+5fb4b2ef-dab5-45b4-9404-59eff67b1abf,Butler and Sons,Finance,enterprise,288399,APAC,2024-06-27,2025-06-27,1
+0063afeb-be6b-447f-a265-a0249a8b9bd4,"Brown, Morgan and Byrd",Manufacturing,growth,59976,EMEA,2025-01-19,2026-01-19,1
+b3604f48-ff6f-4fc3-9700-f38c9a98b7d0,"Molina, Cochran and Espinoza",Finance,starter,11073,APAC,2024-11-07,2025-11-07,1
