@@ -1,0 +1,25 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: raw
+    description: "Raw source tables loaded from simulated CSV data for the Pawsome Provisions ARR team."
+
+    tables:
+      - name: accounts
+        description: "One row per customer account. Contains tier, ARR, contract dates, and churn status."
+
+      - name: users
+        description: "One row per user. Linked to accounts via account_id. Contains role, login activity, and active status."
+
+      - name: subscriptions
+        description: "One row per subscription record. Contains plan, seats, MRR, and renewal history."
+
+      - name: events
+        description: "One row per product telemetry event. 150k rows of user activity across the contract window."
+
+      - name: alerts
+        description: "One row per security alert. Contains severity, type, acknowledgment, and resolution status."
+
+      - name: tickets
+        description: "One row per support ticket. Contains category, priority, resolution, and satisfaction score."
