@@ -1,7 +1,8 @@
-# Pawsome ARR — SaaS Revenue & Customer Health Analytics
+# Pawsome ARR — Recurring  Revenue & Customer Health Analytics
 
-A dbt + DuckDB analytics project built on simulated SaaS data for the 
-fictional ARR team at Pawsome Provisions — a pet food manufacturing company.
+A dbt + DuckDB analytics project built on simulated revenue & sales  data for the 
+fictional ARR team at Pawsome Provisions — a pet food manufacturing company. 
+(The similarities to SaaS is intentional)
 
 This project represents Layer 4 of the Pawsome Provisions portfolio, adding 
 a professional data transformation layer on top of an existing BI stack. 
