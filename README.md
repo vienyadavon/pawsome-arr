@@ -8,10 +8,6 @@ a professional data transformation layer on top of an existing BI stack.
 While the domain is fictional, the data model, metrics, and tooling reflect 
 real-world CS and RevOps workflows.
 
-> Built with AI assistance (Claude by Anthropic) for architecture guidance 
-> and code review. All design decisions, domain framing, and implementation 
-> are my own work.
-
 ---
 
 ## What This Project Demonstrates
@@ -184,7 +180,7 @@ Three dashboards built on dbt mart models:
 - **MRR & Revenue** — total MRR, breakdown by tier and region, active vs churned ARR
 - **Alert Operations** — unacknowledged alerts, resolution rate by tier, critical alerts by account
 
-Dashboard screenshots available at: [portfolio link]
+Dashboard screenshots available at: https://portfolio2026.z19.web.core.windows.net/dbt.html
 
 ---
 
@@ -194,8 +190,8 @@ This repo is Layer 4 of the Pawsome Provisions portfolio — a multi-layer
 data engineering project spanning IoT simulation, inventory management, 
 SQL analytics, and now dbt transformations.
 
-🔗 [Pawsome Provisions repo link]
-🔗 [Portfolio site link]
+🔗 https://github.com/vienyadavon/pawsome-provisions
+🔗 https://portfolio2026.z19.web.core.windows.net/index.html
 
 ---
 
